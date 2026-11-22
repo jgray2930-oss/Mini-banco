@@ -1,0 +1,14 @@
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/bin/Debug/net10.0/MiniBanco
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/bin/Debug/net10.0/MiniBanco.deps.json
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/bin/Debug/net10.0/MiniBanco.runtimeconfig.json
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/bin/Debug/net10.0/MiniBanco.dll
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/bin/Debug/net10.0/MiniBanco.pdb
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/obj/Debug/net10.0/MiniBanco.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/obj/Debug/net10.0/MiniBanco.AssemblyInfoInputs.cache
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/obj/Debug/net10.0/MiniBanco.AssemblyInfo.cs
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/obj/Debug/net10.0/MiniBanco.csproj.CoreCompileInputs.cache
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/obj/Debug/net10.0/MiniBanco.dll
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/obj/Debug/net10.0/refint/MiniBanco.dll
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/obj/Debug/net10.0/MiniBanco.pdb
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/obj/Debug/net10.0/MiniBanco.genruntimeconfig.cache
+/Users/reggierayjeangillesaquino/Desktop/MiniBanco/obj/Debug/net10.0/ref/MiniBanco.dll
